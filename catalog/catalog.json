@@ -1,0 +1,27 @@
+[
+  {
+    "id": "battle",
+    "name": "MineCraft Battle",
+    "tagline": "Битва за Васькоград",
+    "description": "Тактический PvP-сезон: захват зон, огнестрел TACZ, техника и дроны. Сезон 2 — Битва за Васькоград.",
+    "version": "2.1.1",
+    "mc": "1.20.1",
+    "loader": "forge",
+    "loaderVersion": "47.4.20",
+    "server": "",
+    "accent": "#C8F26B",
+    "art": "packs/cover.png",
+    "sizeMb": 569,
+    "updateMb": 569,
+    "mods": 92,
+    "zipUrl": "https://github.com/GXWag/gxw-minecraft-battle/releases/download/pack-battle-2.1.1/GXW-Battle-2.1.1.zip",
+    "changelog": "Добавлен Lan Server Properties: можно открыть мир для сети в оффлайн-режиме и подключиться с другого ПК.",
+    "bg": "packs/bg.png",
+    "zipSha256": "288ac9e3cb3d946ef745455b9976c0d57c08246851e5a119947fb37b6fee8a06",
+    "deltaFrom": "2.1.0",
+    "deltaTo": "2.1.1",
+    "deltaUrl": "https://github.com/GXWag/gxw-minecraft-battle/releases/download/pack-battle-2.1.1/GXW-Battle-2.1.0-to-2.1.1-delta.zip",
+    "deltaSha256": "b6af23a84133d1718ff9841d7ef04a8eebc4a49cfcfb08b5753632103c7c9930",
+    "deltaSizeMb": 1
+  }
+]
