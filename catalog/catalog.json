@@ -17,11 +17,11 @@
     "zipUrl": "https://github.com/GXWag/gxw-minecraft-battle/releases/download/pack-battle-2.1.4/GXW-Battle-2.1.4.zip",
     "changelog": "Убраны Build Mode и вторая экономика (SDM Economy/Shop) — осталась экономика GXW: терминал, зоны и рубли.",
     "bg": "packs/bg.png",
-    "zipSha256": "950d2b0a434f7d410b7e4e296a8543edede82a729db1de11500fb12a7cd3fd2c",
+    "zipSha256": "be612cdf764fdd9bc15710ed94ecca1451dc5d5a6fe894b0a981b3d36315160f",
     "deltaFrom": "2.1.3",
     "deltaTo": "2.1.4",
     "deltaUrl": "https://github.com/GXWag/gxw-minecraft-battle/releases/download/pack-battle-2.1.4/GXW-Battle-2.1.3-to-2.1.4-delta.zip",
-    "deltaSha256": "5aafabb0214715f25fa68d3ecd339a81495d8f87ba5b2ef0d18631963beba4a6",
+    "deltaSha256": "f411d6ccefd983924a5e67279029326b6723d886cf19ab93971d0587385991a5",
     "deltaSizeMb": 1
   }
 ]
